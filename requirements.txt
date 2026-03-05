@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+python-dotenv
+aiofiles
+python-multipart
+opencv-python
+torch
+transformers

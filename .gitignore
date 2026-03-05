@@ -1,0 +1,54 @@
+.venv/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python tests
+.pytest_cache/
+.coverage
+coverage.xml
+
+# Mypy
+.mypy_cache/
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Uploaded files
+/uploads/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Secrets
+secrets.yml
+
+# Node (if added later)
+node_modules/
+.env
+.env.*
